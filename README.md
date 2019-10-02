@@ -16,3 +16,7 @@
 <h2>What is nymphing?</h2>
 <p>Nymphing is used under the water and consists of a hook with a heaver weight on it to allow for presentation where the trout most commonly look. That is, in the actual water column.</p>
 <img src="https://1.bp.blogspot.com/_3FtKWT9sEnU/TUrd2iv7GiI/AAAAAAAAAF8/2ZOGrn2lwHs/s1600/nymph-fly-fishing.jpg" alt="Fly fishing nymph">
+
+<h1>What else would you like to learn about fly fishing?</h2>
+<p>Insert feedback below</p>
+<input type="text">
