@@ -3,7 +3,7 @@
 <a href="#nymphing-header">Nymph Fly Fishing</a>
 
 <img src="https://www.travelingmom.com/wp-content/uploads/2017/11/BWE_FishingCamp_FlyFishing_1-2.jpg" alt="people fishing along winding river in mountains">
-<a href="https://pixabay.com/images/search/fly-fishing/" target="_blank"><p>"Click to view more fly fishing photos"</p></a>
+<p><a href="https://pixabay.com/images/search/fly-fishing/" target="_blank">"Click to view more fly fishing photos"</p></a>
 
 <h2>What are the different components of fly fishing?</h2>
 <main>
