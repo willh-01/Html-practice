@@ -12,11 +12,11 @@
   <li>Nymphing</li>
   </ol>
  
- <h2 id="#dryfly-header">What is dry fly fishing?</h2>
+ <h2 id="dryfly-header">What is dry fly fishing?</h2>
   <p>Dry fly fishing consists of a hook with material on it that allows for it to float. This represents the natural habitat that the trout live in and the food they eat. Dry fly fishing must be done at certain points like when trout are feeding from the surface</p>
 <img src="https://d3d71ba2asa5oz.cloudfront.net/13000320/images/225-0-960-parachuteadms-p__1.jpg" alt="dry fly">
   
-<h2 id="#nymphing-header">What is nymphing?</h2>
+<h2 id="nymphing-header">What is nymphing?</h2>
 <p>Nymphing is used under the water and consists of a hook with a heaver weight on it to allow for presentation where the trout most commonly look. That is, in the actual water column.</p>
 <img src="https://1.bp.blogspot.com/_3FtKWT9sEnU/TUrd2iv7GiI/AAAAAAAAAF8/2ZOGrn2lwHs/s1600/nymph-fly-fishing.jpg" alt="Fly fishing nymph">
 
